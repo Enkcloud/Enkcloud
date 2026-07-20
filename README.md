@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">-Enkcloud-</h1>
-<h2 align="center">Делаю сайты, скрипты, пока ещё учусь | Python ML'E</h2>
-<h3 align="center">Также ты можешь посетить мой сайт!</h3>
+<h2 align="center">Делаю сайты, скрипты, но пока ещё учусь | Python ==> ML'E</h2>
+<h3 align="center">↓ Также у меня есть свой сайт ↓</h3>
 <p align="center">
   <a href="https://enkcloud.ru/">
     <img src="https://img.shields.io/badge/ТЫК_%3A)-7ec8e3?style=for-the-badge&logo=globe&logoColor=white"/>
